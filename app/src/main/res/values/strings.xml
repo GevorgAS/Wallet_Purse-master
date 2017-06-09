@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Wallet_Purse</string>
+    <string name="main_text">Քո անձնական դրամապանակը</string>
+    <string name="addTr">Ավելացնել Ելքեր</string>
+    <string name="addAc">Ավելացնել Մուտքեր</string>
+
+    <string name="find">Ստուգել Ելքերը</string>
+    <string name="addTrade">Ավելացրեք Ելքեր Դրամապանակից</string>
+    <string name="addText">Ավելացրեք Նշումներ</string>
+    <string name="addTradeLocation">Ավելացրեք Վայրը</string>
+    <string name="addPrice">Ավելացրեք Գումարի չափը</string>
+    <string name="addDate">Նշել օրը</string>
+    <string name="addTradeSave">Պահպանել</string>
+    <string name="searchByDate">Գտնել ըստ օրվա</string>
+    <string name="trade_radio">Ելք</string>
+    <string name="access_radio">Մուտք</string>
+
+
+</resources>
